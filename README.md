@@ -1,1 +1,4 @@
-This project aims to demonstrate the integration of web scraping and machine learning techniques to predict restaurant ratings. Data was extracted from open-source platforms, Tourpedia and Tripadvisor, for restaurants located in Amsterdam and Barcelona. Using these datasets, we trained a Random Forest model to predict restaurant ratings based on various features. The tools utilized include Beautiful Soup and Apify actors for web scraping, with Python serving as the primary programming language
+# Project Overview
+
+This project demonstrates the integration of web scraping and machine learning techniques to predict restaurant ratings. The data was extracted from open-source platforms, Tourpedia and Tripadvisor, focusing on restaurants located in Amsterdam and Barcelona. Using these datasets, a Random Forest model was trained to predict restaurant ratings based on various features. The tools utilized include Beautiful Soup and Apify actors for web scraping, with Python serving as the primary programming language.
+
